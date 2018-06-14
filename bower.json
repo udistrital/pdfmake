@@ -1,11 +1,14 @@
 {
-  "name": "pdfmake",
+  "name": "pdfmakeoas",
   "homepage": "https://bpampuch.github.io/pdfmake",
   "authors": [
     "Bartek Pampuch <bartosz.pampuch@gmail.com>"
   ],
   "description": "Client/server side PDF printing in pure JavaScript",
-  "main": ["build/pdfmake.js", "build/vfs_fonts.js"],
+  "main": [
+    "build/pdfmake.js",
+    "build/vfs_fonts.js"
+  ],
   "moduleType": [
     "globals"
   ],
@@ -31,6 +34,8 @@
     "tests",
     "yarn.lock",
     "composer.json",
-    ".travis.yml"
+    ".travis.yml",
+    "bower_components",
+    "test"
   ]
 }

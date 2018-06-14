@@ -12681,7 +12681,19 @@ var defaultClientFonts = {
 		bold: 'Roboto-Medium.ttf',
 		italics: 'Roboto-Italic.ttf',
 		bolditalics: 'Roboto-MediumItalic.ttf'
-	}
+  },
+  Calibri: {
+    normal: 'Calibri.ttf',
+    bold: 'CALIBRIB.TTF',
+    italics: 'CALIBRII.TTF',
+    bolditalics: 'CALIBRIZ.TTF'
+  },
+  MinionPro: {
+    normal: 'MinionPro-Regular.otf',
+    bold: 'MinionPro-Bold.otf',
+    italics: 'MinionPro-It.otf',
+    bolditalics: 'MinionPro-BoldIt.ttf'
+  }
 };
 
 function Document(docDefinition, tableLayouts, fonts, vfs) {

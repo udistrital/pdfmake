@@ -1,9 +1,9 @@
 {
-  "name": "bpampuch/pdfmake",
+  "name": "bpampuch/pdfmakeoas",
   "type": "library",
   "description": "Client/server side PDF printing in pure JavaScript",
   "keywords": ["pdfmake", "pdf", "javascript"],
-  "homepage": "https://github.com/bpampuch/pdfmake",
+  "homepage": "https://github.com/udistrital/pdfmakeoas",
   "license": "MIT",
   "authors": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/bpampuch/pdfmake/issues"
+    "issues": "https://github.com/udistrital/pdfmakeoas/issues"
   },
   "archive": {
     "exclude": [
